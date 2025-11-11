@@ -8,6 +8,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lauta12&show_icons=true&theme=radical&include_all_commits=true)
+
+
 <!--
 **lauta12/lauta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

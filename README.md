@@ -11,6 +11,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+### Sobre mi:
+Soy Lautaro Valiante y tengo 22 años.
+Actualmente estoy estudiando una Tecnicatura en Analista de Sistemas (2do año), me manejo bien con Java y recientemente estoy aprendiendo Desarrollo de aplicaciones mobiles con Flutter y Dart.
+
+
 ### Mis estadísticas de Github:
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lauta12&show_icons=true&theme=radical&include_all_commits=true)
 

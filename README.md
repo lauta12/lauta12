@@ -11,6 +11,7 @@
 
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lauta12&show_icons=true&theme=radical&include_all_commits=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauta12&layout=compact&theme=radical)
 
 <!--
 **lauta12/lauta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

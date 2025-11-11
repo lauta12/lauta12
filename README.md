@@ -1,6 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=6000&pause=1000&color=F7AC1D&background=60ACFF00&width=435&lines=Lautaro+Valiante)](https://git.io/typing-svg)
 ## Hola!
 
+### Sobre mi:
+Soy Lautaro Valiante y tengo 22 años.
+Actualmente estoy estudiando una Tecnicatura en Analista de Sistemas (2do año).
+Me manejo decentemente en Java y recientemente estoy aprendiendo Desarrollo de aplicaciones mobiles con Flutter y Dart, estoy abierto a oportunidades y nuevos desafíos donde pueda aplicar mis conocimientos.
+
+### 📫 Contáctame:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-valiante-0756b4254/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lautavali@gmail.com)
+
 ### Mis conocimientos:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -10,10 +19,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Sobre mi:
-Soy Lautaro Valiante y tengo 22 años.
-Actualmente estoy estudiando una Tecnicatura en Analista de Sistemas (2do año), me manejo bien con Java y recientemente estoy aprendiendo Desarrollo de aplicaciones mobiles con Flutter y Dart.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ### Mis estadísticas de Github:

@@ -4,9 +4,13 @@ Soy estudiante de 2do año de la Tecnicatura en Analista de Sistemas (2do año).
 Me manejo decentemente en Java y actualmente estoy aprendiendo Desarrollo de aplicaciones móviles con Flutter y Dart.
 **Estoy abierto a oportunidades y nuevos desafíos donde pueda aplicar mis conocimientos.**
 
+---
+
 ### 📫 Contáctame:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-valiante-0756b4254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lautavali@gmail.com)
+
+---
 
 ### 🛠️ Mis conocimientos:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,6 +23,7 @@ Me manejo decentemente en Java y actualmente estoy aprendiendo Desarrollo de apl
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+---
 
 ### 📈 Mis estadísticas de Github:
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lauta12&show_icons=true&theme=radical&include_all_commits=true)

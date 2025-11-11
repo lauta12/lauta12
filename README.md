@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=6000&pause=1000&color=F7AC1D&background=60ACFF00&width=435&lines=Lautaro+Valiante)](https://git.io/typing-svg)
 ## Hola! Soy Lautaro
-soy estudiante de 2do año de la Tecnicatura en Analista de Sistemas (2do año).
+Soy estudiante de 2do año de la Tecnicatura en Analista de Sistemas (2do año).
 Me manejo decentemente en Java y actualmente estoy aprendiendo Desarrollo de aplicaciones móviles con Flutter y Dart.
 **Estoy abierto a oportunidades y nuevos desafíos donde pueda aplicar mis conocimientos.**
 

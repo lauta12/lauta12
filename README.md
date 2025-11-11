@@ -2,7 +2,7 @@
 
 ## 👋 ¡Hola! Soy Lautaro
 Soy estudiante de 2do año de la Tecnicatura en Analista de Sistemas.
-Me manejo decentemente en Java y actualmente estoy aprendiendo Desarrollo de aplicaciones móviles con Flutter y Dart.
+Tengo un manejo intermedio de Java y actualmente estoy aprendiendo Desarrollo de aplicaciones móviles con Flutter y Dart.
 **Estoy abierto a oportunidades y nuevos desafíos donde pueda aplicar mis conocimientos.**
 
 ---

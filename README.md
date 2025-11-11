@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7AC1D&background=60ACFF00&width=435&lines=Lautaro+Valiante)](https://git.io/typing-svg)
 
 ### Mi Stack Tecnológico
 

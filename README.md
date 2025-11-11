@@ -4,6 +4,7 @@
 Soy estudiante de 2do año de la Tecnicatura en Analista de Sistemas.
 Tengo un manejo intermedio de Java y actualmente estoy aprendiendo Desarrollo de aplicaciones móviles con Flutter y Dart.
 **Estoy abierto a oportunidades y nuevos desafíos donde pueda aplicar mis conocimientos.**
+
 ---
 
 ### 🛠️ Mis Conocimientos
@@ -16,11 +17,13 @@ Tengo un manejo intermedio de Java y actualmente estoy aprendiendo Desarrollo de
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ---
 
 ### 📫 Contáctame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-valiante-0756b4254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lautavali@gmail.com)
+
 ---
 
 ### 📈 Mis Estadísticas

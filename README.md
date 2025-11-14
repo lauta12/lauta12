@@ -31,3 +31,4 @@ Tengo un manejo intermedio de Java y actualmente estoy aprendiendo Desarrollo de
 ### 📈 Mis Estadísticas
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lauta12&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauta12&layout=compact&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/9cc47def-a57b-449d-9ac3-17c3a88c12c1.svg)](https://wakatime.com/@9cc47def-a57b-449d-9ac3-17c3a88c12c1)
